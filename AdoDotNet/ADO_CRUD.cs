@@ -141,10 +141,10 @@ namespace AdoDotNet
                 }
             }
 
-            //catch (Exception ex)
-            //{
-            //    throw ex;
-            //}
+            catch (Exception ex)
+            {
+                //throw ex;
+            }
         }
 
 
