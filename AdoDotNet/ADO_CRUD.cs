@@ -150,7 +150,7 @@ namespace AdoDotNet
         public void print()
         {
             Console.WriteLine("Welcome to git");
-            Console.WriteLine("Welcome to clone git project   ssss");
+            Console.WriteLine("Welcome to clone git project");
         }
 
 
