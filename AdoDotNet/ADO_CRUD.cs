@@ -147,6 +147,11 @@ namespace AdoDotNet
             }
         }
 
+        public void print()
+        {
+            Console.WriteLine("Welcome to git");
+        }
+
 
 
 
